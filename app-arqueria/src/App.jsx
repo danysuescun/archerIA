@@ -4,8 +4,6 @@ export default function App() {
       {/* Header */}
       <header className="w-full py-6 bg-white shadow-sm flex justify-between px-6">
 
-        <h1 className="text-2xl font-bold text-green-800">ArcScore</h1>
-
         <h1 className="text-2xl font-bold text-green-800">ArcherIA</h1>
 
         <button className="border border-green-600 text-green-700 px-4 py-2 rounded-lg">
@@ -18,9 +16,7 @@ export default function App() {
         <h2 className="text-4xl font-bold text-green-800 mb-6">Lleva tus tanteos al siguiente nivel 🎯</h2>
         <p className="text-green-900 max-w-2xl mb-8">
 
-          Registra tus puntuaciones, analiza tu progreso y conviértete en un arquero más preciso con ArcScore.
-
-          Registra tus puntuaciones, analiza tu progreso y conviértete en un arquero más preciso con ArcherIA.
+             Registra tus puntuaciones, analiza tu progreso y conviértete en un arquero más preciso con ArcherIA.
 
         </p>
         <button className="bg-green-700 hover:bg-green-800 text-white px-6 py-3 rounded-xl">
@@ -53,8 +49,7 @@ export default function App() {
       {/* Footer */}
       <footer className="w-full py-6 bg-green-800 text-white text-center">
 
-        <p>© 2025 ArcScore 🏹</p>
-
+     
         <p>© 2025 ArcherIA 🏹</p>
 
       </footer>
